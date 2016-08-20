@@ -1,0 +1,11 @@
+<resources>
+    <string name="title">こどもえいごクイズ</string>
+    <string name="startbtn">スタートボタン</string>
+    <string name="mondai">問題文</string>
+    <string name="img">問題画像</string>
+    <string name="answerbtn">こたえる</string>
+    <string name="message">結果</string>
+    <string name="listenbtn">聞く</string>
+    <string name="playbtn">もう１度</string>
+    <string name="app_name">こどもえいごクイズ</string>
+</resources>
